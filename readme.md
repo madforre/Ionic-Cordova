@@ -1,9 +1,11 @@
-# 목표 : Ionic-Cordova + Firebase(Google)+ Angular를 이용한 모바일 웹 애플리케이션 구현
+# Ionic-Cordova + Firebase(Google)+ Angular를 이용한 모바일 웹 애플리케이션 구현
 
 * 학습 진행중
 * 원하던 학습방향이 바뀌어서 Vue.js로 방향을 전환하였음. 언제 다시 학습할지 미정인 상태.
 
-Ionic 시작하기
+-----------------------------------
+
+## Ionic 시작하기
 ==============================
 
 출처 : http://webframeworks.kr/getstarted/ionic/
